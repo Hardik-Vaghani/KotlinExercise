@@ -1,10 +1,10 @@
 fun main() {
 
-    println("1. println "); // ln suffix is used to mean perform the operation and then move to the next line.
-    println("2. println ");
+    println("1. println ") // ln suffix is used to mean perform the operation and then move to the next line.
+    println("2. println ")
 
-    print("1. print "); // If it is the print method, perform the operation and continue without any skipping etc.
-    print("2. print");
+    print("1. print ") // If it is the print method, perform the operation and continue without any skipping etc.
+    print("2. print")
 
 
     val score = 99
